@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+  --font-rajdhani: Rajdhani;
+
+  /* font sizes */
+  --font-size-xs: 12px;
+  --font-size-base: 16px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-white: #fff;
+  --color-gray-100: rgba(255, 255, 255, 0.8);
+  --color-gray-200: rgba(255, 255, 255, 0.5);
+
+  /* Border radiuses */
+  --br-smi: 13px;
+  --br-41xl: 60px;
+}

@@ -1,0 +1,200 @@
+.daily-ui-challenege-01-child {
+  position: absolute;
+  top: calc(50% - 349px);
+  left: 35px;
+  border-radius: 80px var(--br-41xl) 40px 20px;
+  object-fit: cover;
+}
+Video {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+.daily-ui-challenege-01-item {
+  position: absolute;
+  right: 0;
+  bottom: 97px;
+  border-radius: var(--br-41xl) 0 0 var(--br-41xl);
+  width: 484px;
+  height: 579px;
+  object-fit: cover;
+}
+.login-with-others-container {
+  position: absolute;
+  top: 0;
+  left: 113px;
+}
+.subtract-icon {
+  position: relative;
+  width: 364px;
+  height: 1px;
+}
+.login-with-others-parent {
+  position: absolute;
+  top: 469px;
+  left: 942px;
+  width: 364px;
+  height: 24px;
+  font-size: var(--font-size-base);
+}
+.login {
+  position: absolute;
+  top: 0;
+  left: 113px;
+  font-weight: 600;
+}
+.how-to-i {
+  position: absolute;
+  top: 54px;
+  left: 0;
+  font-size: var(--font-size-base);
+  font-family: var(--font-poppins);
+}
+.login-parent {
+  position: absolute;
+  top: 129px;
+  left: 956px;
+  width: 336px;
+  height: 78px;
+  font-size: 50px;
+  font-family: var(--font-rajdhani);
+}
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-smi);
+  border: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 364px;
+  height: 52px;
+}
+
+.frame-icon,
+.password {
+  position: absolute;
+  top: 17px;
+  left: 48px;
+}
+.frame-icon {
+  top: 14px;
+  left: 18px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.rectangle-group,
+.rectangle-parent {
+  position: absolute;
+  top: 312px;
+  left: 942px;
+  width: 364px;
+  height: 52px;
+  color: var(--color-gray-200);
+}
+.rectangle-group {
+  top: 236px;
+}
+.group-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-smi);
+  background: linear-gradient(98.95deg, #3caa7b, #296e49);
+  width: 124px;
+  height: 52px;
+}
+.login-now {
+  position: absolute;
+  top: 17px;
+  left: 26px;
+  text-transform: uppercase;
+}
+.rectangle-container,
+.rectangle-div {
+  position: absolute;
+  top: 393px;
+  left: 1062px;
+  width: 124px;
+  height: 52px;
+}
+.rectangle-div {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-smi);
+  background-color: var(--color-white);
+  width: 364px;
+}
+.google-1-icon,
+.login-with-google-container {
+  position: absolute;
+  top: 6px;
+  left: 38px;
+}
+.google-1-icon {
+  top: 0;
+  left: 0;
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+}
+.group-div,
+.login-with-google-parent {
+  position: absolute;
+  top: 11px;
+  left: 110px;
+  width: 144px;
+  height: 30px;
+}
+.group-div {
+  top: 0;
+  left: 0;
+  width: 364px;
+  height: 52px;
+}
+.login-with-facebook-parent {
+  position: absolute;
+  top: 11px;
+  left: 101px;
+  width: 162px;
+  height: 30px;
+}
+.group-parent,
+.rectangle-parent1 {
+  position: absolute;
+  top: 68px;
+  left: 0;
+  width: 364px;
+  height: 52px;
+}
+.group-parent {
+  top: 517px;
+  left: 942px;
+  height: 120px;
+  color: var(--color-black);
+}
+.daily-ui-challenege-01-inner {
+  /* position: center; */
+  position: absolute;
+  align-items: left ;
+  /* /* bottom: 0%; */
+  left: 0%;
+  top: 100px;
+  left: 400px;
+  width: auto;
+  height: auto;
+
+}
+.daily-ui-challenege-01 {
+  position: relative;
+  background-color: #fdf9ff;
+  width: 100%;
+  height: 768px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
